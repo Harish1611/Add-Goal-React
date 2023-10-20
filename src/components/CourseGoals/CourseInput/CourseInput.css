@@ -31,7 +31,3 @@
 .form-control.invalid label {
   color: red;
 }
-
-.form-control.invalid-btn .button-cls {
-  background: #ffd7d7 !important;
-}
